@@ -1,3 +1,6 @@
+
+
+
 Inventory Management API
 This project is a simple Inventory Management System built using Django Rest Framework (DRF). It supports CRUD operations (Create, Read, Update, Delete) on inventory items and is secured with JWT-based authentication. The API uses PostgreSQL as the database and Redis for caching frequently accessed items, improving the performance of the system.
 
